@@ -4,7 +4,7 @@ Entrega 2 (N2) do trabalho de IoT. O projeto evolui a estação de monitoramento
 
 **Repositório:** https://github.com/NFelipe01/estacao-monitoramento-esp32-mqtt
 
-**Autor:** Nathan, Engenharia de Computação
+**Autor:** Nathan da Silva Felipe, Engenharia de Computação
 
 ---
 
@@ -174,7 +174,7 @@ A separação entre o tópico de comando (`rele`) e o de estado (`rele/estado`) 
 ## Estrutura do repositório
 
 ```
-estacao_monitoramento_esp32_mqtt/
+estacao-monitoramento-esp32-mqtt/
 ├── estacao_monitoramento_esp32_mqtt.ino   # código-fonte completo (HTTP + MQTT)
-└── README.md                              # este arquivo
+└── Readme.md                              # este arquivo
 ```
